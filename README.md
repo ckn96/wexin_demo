@@ -1,3 +1,3 @@
 # wexin_demo
-Wechat Demo of Kaini
-download new maven project
+1. Wechat Demo of Kaini
+1. download new maven project
