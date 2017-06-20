@@ -1,0 +1,17 @@
+logging:
+  level:
+    org.springframework.web: DEBUG
+    com.github.binarywang.demo.wechat: DEBUG
+
+wechat:
+  mp:
+    #appId: wxf4db42f4955c98e2 #此为"05放映室公众号"AppID 
+    #secret: 7e75e9fddca7627138e08171442ebb66 #此为"05放映室公众号"AppSecret
+    appId: wxb95b5eb69b0cdd9c
+    secret: a710b962099b9545717d82b6a009454a
+    token: CKNTest
+    #aesKey: RwPRbtEFFs7ABPEunso4RbVOMS3Bz7mFO0pDCtd343R
+   
+spring:
+  application:
+    name: wechat_test

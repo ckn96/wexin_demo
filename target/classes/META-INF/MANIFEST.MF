@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-demo-for-wechat-mp
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: I337587
+Implementation-Vendor-Id: com.github.binarywang
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/weixin-java-
+ mp-demo-springboot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,34 @@
+{
+  "groups": [{
+    "name": "wechat.mp",
+    "type": "com.github.binarywang.demo.wechat.config.WechatMpProperties",
+    "sourceType": "com.github.binarywang.demo.wechat.config.WechatMpProperties"
+  }],
+  "properties": [
+    {
+      "name": "wechat.mp.aes-key",
+      "type": "java.lang.String",
+      "description": "设置微信公众号的EncodingAESKey",
+      "sourceType": "com.github.binarywang.demo.wechat.config.WechatMpProperties"
+    },
+    {
+      "name": "wechat.mp.app-id",
+      "type": "java.lang.String",
+      "description": "设置微信公众号的appid",
+      "sourceType": "com.github.binarywang.demo.wechat.config.WechatMpProperties"
+    },
+    {
+      "name": "wechat.mp.secret",
+      "type": "java.lang.String",
+      "description": "设置微信公众号的app secret",
+      "sourceType": "com.github.binarywang.demo.wechat.config.WechatMpProperties"
+    },
+    {
+      "name": "wechat.mp.token",
+      "type": "java.lang.String",
+      "description": "设置微信公众号的token",
+      "sourceType": "com.github.binarywang.demo.wechat.config.WechatMpProperties"
+    }
+  ],
+  "hints": []
+}
